@@ -1,3 +1,6 @@
+# Specifications
+https://github.com/workmotion/backend-challenge/blob/main/SENIOR_CHALLENGE.md
+
 # Installation
 
 This project uses Docker and it can be easily set up by running the following command from the base folder of the project:
